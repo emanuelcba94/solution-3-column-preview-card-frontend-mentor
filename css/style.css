@@ -30,6 +30,7 @@ body {
     font-size: 15px;
     font-family: var(--font-f-lexed-deca);
     color: var(--very-light-gray);
+    background-color: var(--very-light-gray);
 }
 /* container section */
 .container {
